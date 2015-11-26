@@ -1,7 +1,7 @@
 name: Five
 favicon: null
-layout_spectrum: 0.1542764655314386
-typography_spectrum: 0.6362022913526744
+layout_spectrum: 0.93558
+typography_spectrum: 0.53937
 cta:
   domain: null
   bucket: null
@@ -16,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.26709998515434563
+    - '#000000'
+    - '#d9efbd'
+    - '#206c77'
+    - '#8a8a8a'
+    - '#ad0505'
+  brandStrength: 0.75
   lightness: 0.9024800851475447
   saturation: 0.664195109391585
   rhythmicContrast: 0.7689466725569218
